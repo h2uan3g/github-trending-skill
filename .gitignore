@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# macOS
+.DS_Store
+__MACOSX/
+
+# Node / packaging
+node_modules/
+dist/
+*.tgz
+
+# Archives that duplicate the repo source
+*.zip
